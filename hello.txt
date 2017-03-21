@@ -1,1 +1,1 @@
-echo "Edureka DevOps sessions"
+"Edureka DevOps sessions"
